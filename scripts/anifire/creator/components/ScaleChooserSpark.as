@@ -81,49 +81,49 @@ package anifire.creator.components
       
       private var hideFinishFlag:Boolean = true;
       
-      private var _embed_mxml__styles_images_panel_btn_close_over_png_2000923769:Class;
+      private var _embed_mxml__styles_images_details_btn_arrowd_init_png_1773134361:Class;
       
-      private var _embed_mxml__styles_images_details_btn_bodytype02_over_png_727082119:Class;
+      private var _embed_mxml__styles_images_details_ico_drag_head_max_png_1121022321:Class;
       
-      private var _embed_mxml__styles_images_details_btn_arrowd_init_png_926693625:Class;
+      private var _embed_mxml__styles_images_panel_btn_close_over_png_802771247:Class;
       
-      private var _embed_mxml__styles_images_details_btn_arrowd_over_png_372004985:Class;
+      private var _embed_mxml__styles_images_details_btn_bodytype03_over_png_535119527:Class;
       
-      private var _embed_mxml__styles_images_details_btn_bodytype04_over_png_528750851:Class;
+      private var _embed_mxml__styles_images_details_btn_bodytype02_init_png_122640111:Class;
       
-      private var _embed_mxml__styles_images_details_btn_bodytype03_init_png_525739335:Class;
+      private var _embed_mxml__styles_images_details_ico_drag_head_min_png_955069713:Class;
       
-      private var _embed_mxml__styles_images_details_btn_arrowl_init_png_147572551:Class;
+      private var _embed_mxml__styles_images_details_btn_bodytype01_init_png_272414375:Class;
       
-      private var _embed_mxml__styles_images_details_btn_bodytype03_over_png_523704647:Class;
+      private var _embed_mxml__styles_images_details_btn_arrowr_init_png_240172175:Class;
       
-      private var _embed_mxml__styles_images_details_btn_arrowr_init_png_281765451:Class;
+      private var _embed_mxml__styles_images_details_btn_bodytype02_over_png_8207207:Class;
       
-      private var _embed_mxml__styles_images_details_ico_drag_head_max_png_994122617:Class;
+      private var _embed_mxml__styles_images_panel_btn_close_init_png_271929049:Class;
       
-      private var _embed_mxml__styles_images_details_btn_arrowu_over_png_1477683083:Class;
+      private var _embed_mxml__styles_images_details_btn_bodytype03_init_png_1073560239:Class;
       
-      private var _embed_mxml__styles_images_details_btn_bodytype04_init_png_1589053115:Class;
+      private var _embed_mxml__styles_images_details_btn_arrowr_over_png_256906391:Class;
       
-      private var _embed_mxml__styles_images_details_btn_bodytype01_init_png_548923715:Class;
+      private var _embed_mxml__styles_images_details_btn_bodytype01_over_png_238085713:Class;
       
-      private var _embed_mxml__styles_images_details_btn_arrowu_init_png_1510196995:Class;
+      private var _embed_mxml__styles_images_details_btn_arrowl_init_png_1982849129:Class;
       
-      private var _embed_mxml__styles_images_details_ico_drag_body_min_png_1489058041:Class;
+      private var _embed_mxml__styles_images_details_btn_arrowu_over_png_89243535:Class;
       
-      private var _embed_mxml__styles_images_details_ico_drag_head_min_png_1564563317:Class;
+      private var _embed_mxml__styles_images_details_ico_drag_body_min_png_786442641:Class;
       
-      private var _embed_mxml__styles_images_details_btn_arrowl_over_png_1774962567:Class;
+      private var _embed_mxml__styles_images_details_btn_bodytype04_over_png_927418087:Class;
       
-      private var _embed_mxml__styles_images_details_btn_bodytype01_over_png_1018755509:Class;
+      private var _embed_mxml__styles_images_details_btn_bodytype04_init_png_342169967:Class;
       
-      private var _embed_mxml__styles_images_details_btn_bodytype02_init_png_256313607:Class;
+      private var _embed_mxml__styles_images_details_btn_arrowl_over_png_137116817:Class;
       
-      private var _embed_mxml__styles_images_details_btn_arrowr_over_png_298567235:Class;
+      private var _embed_mxml__styles_images_details_btn_arrowd_over_png_1219447441:Class;
       
-      private var _embed_mxml__styles_images_panel_btn_close_init_png_1805605639:Class;
+      private var _embed_mxml__styles_images_details_btn_arrowu_init_png_105911175:Class;
       
-      private var _embed_mxml__styles_images_details_ico_drag_body_max_png_1690384637:Class;
+      private var _embed_mxml__styles_images_details_ico_drag_body_max_png_15496553:Class;
       
       mx_internal var _bindings:Array;
       
@@ -137,28 +137,28 @@ package anifire.creator.components
       {
          var target:Object = null;
          var watcherSetupUtilClass:Object = null;
-         this._embed_mxml__styles_images_panel_btn_close_over_png_2000923769 = ScaleChooserSpark__embed_mxml__styles_images_panel_btn_close_over_png_2000923769;
-         this._embed_mxml__styles_images_details_btn_bodytype02_over_png_727082119 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype02_over_png_727082119;
-         this._embed_mxml__styles_images_details_btn_arrowd_init_png_926693625 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowd_init_png_926693625;
-         this._embed_mxml__styles_images_details_btn_arrowd_over_png_372004985 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowd_over_png_372004985;
-         this._embed_mxml__styles_images_details_btn_bodytype04_over_png_528750851 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype04_over_png_528750851;
-         this._embed_mxml__styles_images_details_btn_bodytype03_init_png_525739335 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype03_init_png_525739335;
-         this._embed_mxml__styles_images_details_btn_arrowl_init_png_147572551 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowl_init_png_147572551;
-         this._embed_mxml__styles_images_details_btn_bodytype03_over_png_523704647 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype03_over_png_523704647;
-         this._embed_mxml__styles_images_details_btn_arrowr_init_png_281765451 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowr_init_png_281765451;
-         this._embed_mxml__styles_images_details_ico_drag_head_max_png_994122617 = ScaleChooserSpark__embed_mxml__styles_images_details_ico_drag_head_max_png_994122617;
-         this._embed_mxml__styles_images_details_btn_arrowu_over_png_1477683083 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowu_over_png_1477683083;
-         this._embed_mxml__styles_images_details_btn_bodytype04_init_png_1589053115 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype04_init_png_1589053115;
-         this._embed_mxml__styles_images_details_btn_bodytype01_init_png_548923715 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype01_init_png_548923715;
-         this._embed_mxml__styles_images_details_btn_arrowu_init_png_1510196995 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowu_init_png_1510196995;
-         this._embed_mxml__styles_images_details_ico_drag_body_min_png_1489058041 = ScaleChooserSpark__embed_mxml__styles_images_details_ico_drag_body_min_png_1489058041;
-         this._embed_mxml__styles_images_details_ico_drag_head_min_png_1564563317 = ScaleChooserSpark__embed_mxml__styles_images_details_ico_drag_head_min_png_1564563317;
-         this._embed_mxml__styles_images_details_btn_arrowl_over_png_1774962567 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowl_over_png_1774962567;
-         this._embed_mxml__styles_images_details_btn_bodytype01_over_png_1018755509 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype01_over_png_1018755509;
-         this._embed_mxml__styles_images_details_btn_bodytype02_init_png_256313607 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype02_init_png_256313607;
-         this._embed_mxml__styles_images_details_btn_arrowr_over_png_298567235 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowr_over_png_298567235;
-         this._embed_mxml__styles_images_panel_btn_close_init_png_1805605639 = ScaleChooserSpark__embed_mxml__styles_images_panel_btn_close_init_png_1805605639;
-         this._embed_mxml__styles_images_details_ico_drag_body_max_png_1690384637 = ScaleChooserSpark__embed_mxml__styles_images_details_ico_drag_body_max_png_1690384637;
+         this._embed_mxml__styles_images_details_btn_arrowd_init_png_1773134361 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowd_init_png_1773134361;
+         this._embed_mxml__styles_images_details_ico_drag_head_max_png_1121022321 = ScaleChooserSpark__embed_mxml__styles_images_details_ico_drag_head_max_png_1121022321;
+         this._embed_mxml__styles_images_panel_btn_close_over_png_802771247 = ScaleChooserSpark__embed_mxml__styles_images_panel_btn_close_over_png_802771247;
+         this._embed_mxml__styles_images_details_btn_bodytype03_over_png_535119527 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype03_over_png_535119527;
+         this._embed_mxml__styles_images_details_btn_bodytype02_init_png_122640111 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype02_init_png_122640111;
+         this._embed_mxml__styles_images_details_ico_drag_head_min_png_955069713 = ScaleChooserSpark__embed_mxml__styles_images_details_ico_drag_head_min_png_955069713;
+         this._embed_mxml__styles_images_details_btn_bodytype01_init_png_272414375 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype01_init_png_272414375;
+         this._embed_mxml__styles_images_details_btn_arrowr_init_png_240172175 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowr_init_png_240172175;
+         this._embed_mxml__styles_images_details_btn_bodytype02_over_png_8207207 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype02_over_png_8207207;
+         this._embed_mxml__styles_images_panel_btn_close_init_png_271929049 = ScaleChooserSpark__embed_mxml__styles_images_panel_btn_close_init_png_271929049;
+         this._embed_mxml__styles_images_details_btn_bodytype03_init_png_1073560239 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype03_init_png_1073560239;
+         this._embed_mxml__styles_images_details_btn_arrowr_over_png_256906391 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowr_over_png_256906391;
+         this._embed_mxml__styles_images_details_btn_bodytype01_over_png_238085713 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype01_over_png_238085713;
+         this._embed_mxml__styles_images_details_btn_arrowl_init_png_1982849129 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowl_init_png_1982849129;
+         this._embed_mxml__styles_images_details_btn_arrowu_over_png_89243535 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowu_over_png_89243535;
+         this._embed_mxml__styles_images_details_ico_drag_body_min_png_786442641 = ScaleChooserSpark__embed_mxml__styles_images_details_ico_drag_body_min_png_786442641;
+         this._embed_mxml__styles_images_details_btn_bodytype04_over_png_927418087 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype04_over_png_927418087;
+         this._embed_mxml__styles_images_details_btn_bodytype04_init_png_342169967 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_bodytype04_init_png_342169967;
+         this._embed_mxml__styles_images_details_btn_arrowl_over_png_137116817 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowl_over_png_137116817;
+         this._embed_mxml__styles_images_details_btn_arrowd_over_png_1219447441 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowd_over_png_1219447441;
+         this._embed_mxml__styles_images_details_btn_arrowu_init_png_105911175 = ScaleChooserSpark__embed_mxml__styles_images_details_btn_arrowu_init_png_105911175;
+         this._embed_mxml__styles_images_details_ico_drag_body_max_png_15496553 = ScaleChooserSpark__embed_mxml__styles_images_details_ico_drag_body_max_png_15496553;
          this._bindings = [];
          this._watchers = [];
          this._bindingsByDestination = {};
@@ -497,8 +497,8 @@ package anifire.creator.components
          _loc1_.enabled = true;
          _loc1_.top = 5;
          _loc1_.right = 5;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_panel_btn_close_init_png_1805605639);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_panel_btn_close_over_png_2000923769);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_panel_btn_close_init_png_271929049);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_panel_btn_close_over_png_802771247);
          _loc1_.addEventListener("click",this.__btnClose_click);
          _loc1_.id = "btnClose";
          if(!_loc1_.document)
@@ -567,7 +567,7 @@ package anifire.creator.components
       private function _ScaleChooserSpark_Image1_c() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_details_ico_drag_body_min_png_1489058041;
+         _loc1_.source = this._embed_mxml__styles_images_details_ico_drag_body_min_png_786442641;
          _loc1_.width = 29;
          _loc1_.height = 33;
          if(!_loc1_.document)
@@ -605,7 +605,7 @@ package anifire.creator.components
       private function _ScaleChooserSpark_Image2_c() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_details_ico_drag_body_max_png_1690384637;
+         _loc1_.source = this._embed_mxml__styles_images_details_ico_drag_body_max_png_15496553;
          _loc1_.x = 65;
          _loc1_.width = 29;
          _loc1_.height = 33;
@@ -636,7 +636,7 @@ package anifire.creator.components
       private function _ScaleChooserSpark_Image3_c() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_details_ico_drag_head_min_png_1564563317;
+         _loc1_.source = this._embed_mxml__styles_images_details_ico_drag_head_min_png_955069713;
          _loc1_.width = 29;
          _loc1_.height = 33;
          if(!_loc1_.document)
@@ -674,7 +674,7 @@ package anifire.creator.components
       private function _ScaleChooserSpark_Image4_c() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_details_ico_drag_head_max_png_994122617;
+         _loc1_.source = this._embed_mxml__styles_images_details_ico_drag_head_max_png_1121022321;
          _loc1_.x = 65;
          _loc1_.width = 29;
          _loc1_.height = 33;
@@ -716,8 +716,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_bodytype01_init_png_548923715);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_bodytype01_over_png_1018755509);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_bodytype01_init_png_272414375);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_bodytype01_over_png_238085713);
          _loc1_.addEventListener("click",this.__btnType01_click);
          _loc1_.id = "btnType01";
          if(!_loc1_.document)
@@ -739,8 +739,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_bodytype02_init_png_256313607);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_bodytype02_over_png_727082119);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_bodytype02_init_png_122640111);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_bodytype02_over_png_8207207);
          _loc1_.addEventListener("click",this.__btnType02_click);
          _loc1_.id = "btnType02";
          if(!_loc1_.document)
@@ -762,8 +762,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_bodytype03_init_png_525739335);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_bodytype03_over_png_523704647);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_bodytype03_init_png_1073560239);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_bodytype03_over_png_535119527);
          _loc1_.addEventListener("click",this.__btnType03_click);
          _loc1_.id = "btnType03";
          if(!_loc1_.document)
@@ -785,8 +785,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_bodytype04_init_png_1589053115);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_bodytype04_over_png_528750851);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_bodytype04_init_png_342169967);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_bodytype04_over_png_927418087);
          _loc1_.addEventListener("click",this.__btnType04_click);
          _loc1_.id = "btnType04";
          if(!_loc1_.document)
@@ -825,8 +825,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_arrowl_init_png_147572551);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_arrowl_over_png_1774962567);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_arrowl_init_png_1982849129);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_arrowl_over_png_137116817);
          _loc1_.addEventListener("click",this.__btnArrowLeft_click);
          _loc1_.id = "btnArrowLeft";
          if(!_loc1_.document)
@@ -848,8 +848,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_arrowr_init_png_281765451);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_arrowr_over_png_298567235);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_arrowr_init_png_240172175);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_arrowr_over_png_256906391);
          _loc1_.addEventListener("click",this.__btnArrowRight_click);
          _loc1_.id = "btnArrowRight";
          if(!_loc1_.document)
@@ -871,8 +871,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_arrowu_init_png_1510196995);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_arrowu_over_png_1477683083);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_arrowu_init_png_105911175);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_arrowu_over_png_89243535);
          _loc1_.addEventListener("click",this.__btnArrowUp_click);
          _loc1_.id = "btnArrowUp";
          if(!_loc1_.document)
@@ -894,8 +894,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_arrowd_init_png_926693625);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_arrowd_over_png_372004985);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_arrowd_init_png_1773134361);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_arrowd_over_png_1219447441);
          _loc1_.addEventListener("click",this.__btnArrowDown_click);
          _loc1_.id = "btnArrowDown";
          if(!_loc1_.document)

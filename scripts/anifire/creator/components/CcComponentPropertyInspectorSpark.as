@@ -91,55 +91,55 @@ package anifire.creator.components
       
       private var hideFinishFlag:Boolean = true;
       
-      private var _embed_mxml__styles_images_details_btn_scale_down_init_png_60286471:Class;
+      private var _embed_mxml__styles_images_details_btn_scale_down_init_png_121944559:Class;
       
-      private var _embed_mxml__styles_images_panel_btn_close_over_png_2000923769:Class;
+      private var _embed_mxml__styles_images_panel_btn_close_over_png_802771247:Class;
       
-      private var _embed_mxml__styles_images_details_btn_rotate_left_init_png_545166073:Class;
+      private var _embed_mxml__styles_images_details_btn_closer_init_png_1747942489:Class;
       
-      private var _embed_mxml__styles_images_details_btn_closer_over_png_1861461063:Class;
+      private var _embed_mxml__styles_images_details_btn_scale_up_x_over_png_474783639:Class;
       
-      private var _embed_mxml__styles_images_details_btn_anchor_disabled_png_1132750411:Class;
+      private var _embed_mxml__styles_images_details_btn_rotate_right_over_png_103458711:Class;
       
-      private var _embed_mxml__styles_images_details_btn_scale_up_over_png_1478670653:Class;
+      private var _embed_mxml__styles_images_details_btn_scale_down_x_over_png_32887673:Class;
       
-      private var _embed_mxml__styles_images_details_btn_closer_init_png_159598407:Class;
+      private var _embed_mxml__styles_images_details_btn_scale_down_x_init_png_1724197745:Class;
       
-      private var _embed_mxml__styles_images_details_btn_anchor_init_png_804542717:Class;
+      private var _embed_mxml__styles_images_details_btn_scale_up_over_png_703393913:Class;
       
-      private var _embed_mxml__styles_images_details_btn_scale_up_y_over_png_56092231:Class;
+      private var _embed_mxml__styles_images_details_btn_scale_up_y_init_png_399333767:Class;
       
-      private var _embed_mxml__styles_images_details_btn_scale_up_x_over_png_524746883:Class;
+      private var _embed_mxml__styles_images_details_btn_anchor_disabled_png_21445007:Class;
       
-      private var _embed_mxml__styles_images_details_btn_scale_down_x_init_png_928933339:Class;
+      private var _embed_mxml__styles_images_details_btn_scale_down_y_over_png_101307257:Class;
       
-      private var _embed_mxml__styles_images_details_btn_scale_down_y_init_png_927008027:Class;
+      private var _embed_mxml__styles_images_details_btn_rotate_left_init_png_1608333063:Class;
       
-      private var _embed_mxml__styles_images_details_btn_wider_over_png_867826631:Class;
+      private var _embed_mxml__styles_images_details_btn_scale_up_x_init_png_1059404687:Class;
       
-      private var _embed_mxml__styles_images_panel_btn_close_init_png_1805605639:Class;
+      private var _embed_mxml__styles_images_details_btn_anchor_over_png_1890460273:Class;
       
-      private var _embed_mxml__styles_images_details_btn_anchor_over_png_770455653:Class;
+      private var _embed_mxml__styles_images_details_btn_scale_down_over_png_69671319:Class;
       
-      private var _embed_mxml__styles_images_details_btn_rotate_right_init_png_884865483:Class;
+      private var _embed_mxml__styles_images_details_btn_anchor_init_png_1907358313:Class;
       
-      private var _embed_mxml__styles_images_details_btn_scale_down_y_over_png_884736387:Class;
+      private var _embed_mxml__styles_images_details_btn_scale_up_y_over_png_939506063:Class;
       
-      private var _embed_mxml__styles_images_details_btn_rotate_right_over_png_934815171:Class;
+      private var _embed_mxml__styles_images_panel_btn_close_init_png_271929049:Class;
       
-      private var _embed_mxml__styles_images_details_btn_scale_up_x_init_png_456549387:Class;
+      private var _embed_mxml__styles_images_details_btn_rotate_left_over_png_1911474959:Class;
       
-      private var _embed_mxml__styles_images_details_btn_scale_down_over_png_545719943:Class;
+      private var _embed_mxml__styles_images_details_btn_scale_up_init_png_1239561329:Class;
       
-      private var _embed_mxml__styles_images_details_btn_scale_down_x_over_png_859906499:Class;
+      private var _embed_mxml__styles_images_details_btn_wider_over_png_1791656345:Class;
       
-      private var _embed_mxml__styles_images_details_btn_scale_up_init_png_953104677:Class;
+      private var _embed_mxml__styles_images_details_btn_wider_init_png_1305000977:Class;
       
-      private var _embed_mxml__styles_images_details_btn_wider_init_png_850996167:Class;
+      private var _embed_mxml__styles_images_details_btn_scale_down_y_init_png_1727383665:Class;
       
-      private var _embed_mxml__styles_images_details_btn_scale_up_y_init_png_591857223:Class;
+      private var _embed_mxml__styles_images_details_btn_rotate_right_init_png_87675823:Class;
       
-      private var _embed_mxml__styles_images_details_btn_rotate_left_over_png_1871588985:Class;
+      private var _embed_mxml__styles_images_details_btn_closer_over_png_137347921:Class;
       
       mx_internal var _bindings:Array;
       
@@ -153,31 +153,31 @@ package anifire.creator.components
       {
          var target:Object = null;
          var watcherSetupUtilClass:Object = null;
-         this._embed_mxml__styles_images_details_btn_scale_down_init_png_60286471 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_down_init_png_60286471;
-         this._embed_mxml__styles_images_panel_btn_close_over_png_2000923769 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_panel_btn_close_over_png_2000923769;
-         this._embed_mxml__styles_images_details_btn_rotate_left_init_png_545166073 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_rotate_left_init_png_545166073;
-         this._embed_mxml__styles_images_details_btn_closer_over_png_1861461063 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_closer_over_png_1861461063;
-         this._embed_mxml__styles_images_details_btn_anchor_disabled_png_1132750411 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_anchor_disabled_png_1132750411;
-         this._embed_mxml__styles_images_details_btn_scale_up_over_png_1478670653 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_up_over_png_1478670653;
-         this._embed_mxml__styles_images_details_btn_closer_init_png_159598407 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_closer_init_png_159598407;
-         this._embed_mxml__styles_images_details_btn_anchor_init_png_804542717 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_anchor_init_png_804542717;
-         this._embed_mxml__styles_images_details_btn_scale_up_y_over_png_56092231 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_up_y_over_png_56092231;
-         this._embed_mxml__styles_images_details_btn_scale_up_x_over_png_524746883 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_up_x_over_png_524746883;
-         this._embed_mxml__styles_images_details_btn_scale_down_x_init_png_928933339 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_down_x_init_png_928933339;
-         this._embed_mxml__styles_images_details_btn_scale_down_y_init_png_927008027 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_down_y_init_png_927008027;
-         this._embed_mxml__styles_images_details_btn_wider_over_png_867826631 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_wider_over_png_867826631;
-         this._embed_mxml__styles_images_panel_btn_close_init_png_1805605639 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_panel_btn_close_init_png_1805605639;
-         this._embed_mxml__styles_images_details_btn_anchor_over_png_770455653 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_anchor_over_png_770455653;
-         this._embed_mxml__styles_images_details_btn_rotate_right_init_png_884865483 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_rotate_right_init_png_884865483;
-         this._embed_mxml__styles_images_details_btn_scale_down_y_over_png_884736387 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_down_y_over_png_884736387;
-         this._embed_mxml__styles_images_details_btn_rotate_right_over_png_934815171 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_rotate_right_over_png_934815171;
-         this._embed_mxml__styles_images_details_btn_scale_up_x_init_png_456549387 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_up_x_init_png_456549387;
-         this._embed_mxml__styles_images_details_btn_scale_down_over_png_545719943 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_down_over_png_545719943;
-         this._embed_mxml__styles_images_details_btn_scale_down_x_over_png_859906499 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_down_x_over_png_859906499;
-         this._embed_mxml__styles_images_details_btn_scale_up_init_png_953104677 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_up_init_png_953104677;
-         this._embed_mxml__styles_images_details_btn_wider_init_png_850996167 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_wider_init_png_850996167;
-         this._embed_mxml__styles_images_details_btn_scale_up_y_init_png_591857223 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_up_y_init_png_591857223;
-         this._embed_mxml__styles_images_details_btn_rotate_left_over_png_1871588985 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_rotate_left_over_png_1871588985;
+         this._embed_mxml__styles_images_details_btn_scale_down_init_png_121944559 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_down_init_png_121944559;
+         this._embed_mxml__styles_images_panel_btn_close_over_png_802771247 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_panel_btn_close_over_png_802771247;
+         this._embed_mxml__styles_images_details_btn_closer_init_png_1747942489 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_closer_init_png_1747942489;
+         this._embed_mxml__styles_images_details_btn_scale_up_x_over_png_474783639 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_up_x_over_png_474783639;
+         this._embed_mxml__styles_images_details_btn_rotate_right_over_png_103458711 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_rotate_right_over_png_103458711;
+         this._embed_mxml__styles_images_details_btn_scale_down_x_over_png_32887673 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_down_x_over_png_32887673;
+         this._embed_mxml__styles_images_details_btn_scale_down_x_init_png_1724197745 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_down_x_init_png_1724197745;
+         this._embed_mxml__styles_images_details_btn_scale_up_over_png_703393913 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_up_over_png_703393913;
+         this._embed_mxml__styles_images_details_btn_scale_up_y_init_png_399333767 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_up_y_init_png_399333767;
+         this._embed_mxml__styles_images_details_btn_anchor_disabled_png_21445007 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_anchor_disabled_png_21445007;
+         this._embed_mxml__styles_images_details_btn_scale_down_y_over_png_101307257 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_down_y_over_png_101307257;
+         this._embed_mxml__styles_images_details_btn_rotate_left_init_png_1608333063 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_rotate_left_init_png_1608333063;
+         this._embed_mxml__styles_images_details_btn_scale_up_x_init_png_1059404687 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_up_x_init_png_1059404687;
+         this._embed_mxml__styles_images_details_btn_anchor_over_png_1890460273 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_anchor_over_png_1890460273;
+         this._embed_mxml__styles_images_details_btn_scale_down_over_png_69671319 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_down_over_png_69671319;
+         this._embed_mxml__styles_images_details_btn_anchor_init_png_1907358313 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_anchor_init_png_1907358313;
+         this._embed_mxml__styles_images_details_btn_scale_up_y_over_png_939506063 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_up_y_over_png_939506063;
+         this._embed_mxml__styles_images_panel_btn_close_init_png_271929049 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_panel_btn_close_init_png_271929049;
+         this._embed_mxml__styles_images_details_btn_rotate_left_over_png_1911474959 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_rotate_left_over_png_1911474959;
+         this._embed_mxml__styles_images_details_btn_scale_up_init_png_1239561329 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_up_init_png_1239561329;
+         this._embed_mxml__styles_images_details_btn_wider_over_png_1791656345 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_wider_over_png_1791656345;
+         this._embed_mxml__styles_images_details_btn_wider_init_png_1305000977 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_wider_init_png_1305000977;
+         this._embed_mxml__styles_images_details_btn_scale_down_y_init_png_1727383665 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_scale_down_y_init_png_1727383665;
+         this._embed_mxml__styles_images_details_btn_rotate_right_init_png_87675823 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_rotate_right_init_png_87675823;
+         this._embed_mxml__styles_images_details_btn_closer_over_png_137347921 = CcComponentPropertyInspectorSpark__embed_mxml__styles_images_details_btn_closer_over_png_137347921;
          this._bindings = [];
          this._watchers = [];
          this._bindingsByDestination = {};
@@ -498,9 +498,9 @@ package anifire.creator.components
          _loc1_.enabled = true;
          _loc1_.right = 15;
          _loc1_.bottom = 27;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_anchor_init_png_804542717);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_anchor_over_png_770455653);
-         _loc1_.setStyle("iconDisabled",this._embed_mxml__styles_images_details_btn_anchor_disabled_png_1132750411);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_anchor_init_png_1907358313);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_anchor_over_png_1890460273);
+         _loc1_.setStyle("iconDisabled",this._embed_mxml__styles_images_details_btn_anchor_disabled_png_21445007);
          _loc1_.addEventListener("click",this.__btnExtend_click);
          _loc1_.id = "btnExtend";
          if(!_loc1_.document)
@@ -587,8 +587,8 @@ package anifire.creator.components
          _loc1_.enabled = true;
          _loc1_.top = 5;
          _loc1_.right = 5;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_panel_btn_close_init_png_1805605639);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_panel_btn_close_over_png_2000923769);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_panel_btn_close_init_png_271929049);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_panel_btn_close_over_png_802771247);
          _loc1_.addEventListener("click",this.__btnClose_click);
          _loc1_.id = "btnClose";
          if(!_loc1_.document)
@@ -648,8 +648,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_scale_up_init_png_953104677);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_scale_up_over_png_1478670653);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_scale_up_init_png_1239561329);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_scale_up_over_png_703393913);
          _loc1_.addEventListener("mouseDown",this.__btnScaleUp_mouseDown);
          _loc1_.addEventListener("mouseOut",this.__btnScaleUp_mouseOut);
          _loc1_.addEventListener("mouseUp",this.__btnScaleUp_mouseUp);
@@ -683,8 +683,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_scale_down_init_png_60286471);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_scale_down_over_png_545719943);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_scale_down_init_png_121944559);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_scale_down_over_png_69671319);
          _loc1_.addEventListener("mouseDown",this.__btnScaleDown_mouseDown);
          _loc1_.addEventListener("mouseOut",this.__btnScaleDown_mouseOut);
          _loc1_.addEventListener("mouseUp",this.__btnScaleDown_mouseUp);
@@ -733,8 +733,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_scale_up_x_init_png_456549387);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_scale_up_x_over_png_524746883);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_scale_up_x_init_png_1059404687);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_scale_up_x_over_png_474783639);
          _loc1_.addEventListener("mouseDown",this.__btnXScaleUp_mouseDown);
          _loc1_.addEventListener("mouseOut",this.__btnXScaleUp_mouseOut);
          _loc1_.addEventListener("mouseUp",this.__btnXScaleUp_mouseUp);
@@ -768,8 +768,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_scale_down_x_init_png_928933339);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_scale_down_x_over_png_859906499);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_scale_down_x_init_png_1724197745);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_scale_down_x_over_png_32887673);
          _loc1_.addEventListener("mouseDown",this.__btnXScaleDown_mouseDown);
          _loc1_.addEventListener("mouseOut",this.__btnXScaleDown_mouseOut);
          _loc1_.addEventListener("mouseUp",this.__btnXScaleDown_mouseUp);
@@ -818,8 +818,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_scale_up_y_init_png_591857223);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_scale_up_y_over_png_56092231);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_scale_up_y_init_png_399333767);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_scale_up_y_over_png_939506063);
          _loc1_.addEventListener("mouseDown",this.__btnYScaleUp_mouseDown);
          _loc1_.addEventListener("mouseOut",this.__btnYScaleUp_mouseOut);
          _loc1_.addEventListener("mouseUp",this.__btnYScaleUp_mouseUp);
@@ -853,8 +853,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_scale_down_y_init_png_927008027);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_scale_down_y_over_png_884736387);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_scale_down_y_init_png_1727383665);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_scale_down_y_over_png_101307257);
          _loc1_.addEventListener("mouseDown",this.__btnYScaleDown_mouseDown);
          _loc1_.addEventListener("mouseOut",this.__btnYScaleDown_mouseOut);
          _loc1_.addEventListener("mouseUp",this.__btnYScaleDown_mouseUp);
@@ -900,8 +900,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_rotate_left_init_png_545166073);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_rotate_left_over_png_1871588985);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_rotate_left_init_png_1608333063);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_rotate_left_over_png_1911474959);
          _loc1_.addEventListener("mouseDown",this.__btnRotateUp_mouseDown);
          _loc1_.addEventListener("mouseOut",this.__btnRotateUp_mouseOut);
          _loc1_.addEventListener("mouseUp",this.__btnRotateUp_mouseUp);
@@ -935,8 +935,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_rotate_right_init_png_884865483);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_rotate_right_over_png_934815171);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_rotate_right_init_png_87675823);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_rotate_right_over_png_103458711);
          _loc1_.addEventListener("mouseDown",this.__btnRotateDown_mouseDown);
          _loc1_.addEventListener("mouseOut",this.__btnRotateDown_mouseOut);
          _loc1_.addEventListener("mouseUp",this.__btnRotateDown_mouseUp);
@@ -982,8 +982,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_closer_init_png_159598407);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_closer_over_png_1861461063);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_closer_init_png_1747942489);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_closer_over_png_137347921);
          _loc1_.addEventListener("mouseDown",this.__btnOffsetUp_mouseDown);
          _loc1_.addEventListener("mouseOut",this.__btnOffsetUp_mouseOut);
          _loc1_.addEventListener("mouseUp",this.__btnOffsetUp_mouseUp);
@@ -1017,8 +1017,8 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = true;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_wider_init_png_850996167);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_wider_over_png_867826631);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_details_btn_wider_init_png_1305000977);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_details_btn_wider_over_png_1791656345);
          _loc1_.addEventListener("mouseDown",this.__btnOffsetDown_mouseDown);
          _loc1_.addEventListener("mouseOut",this.__btnOffsetDown_mouseOut);
          _loc1_.addEventListener("mouseUp",this.__btnOffsetDown_mouseUp);

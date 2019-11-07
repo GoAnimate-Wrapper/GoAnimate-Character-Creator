@@ -52,13 +52,13 @@ package anifire.creator.components
       
       private var __moduleFactoryInitialized:Boolean = false;
       
-      private var _embed_mxml__styles_images_control_btn_zoomout_over_png_1686087097:Class;
+      private var _embed_mxml__styles_images_control_btn_zoomout_init_png_1867130159:Class;
       
-      private var _embed_mxml__styles_images_control_btn_zoomin_over_png_557062261:Class;
+      private var _embed_mxml__styles_images_control_btn_zoomout_over_png_1369559785:Class;
       
-      private var _embed_mxml__styles_images_control_btn_zoomin_init_png_640989693:Class;
+      private var _embed_mxml__styles_images_control_btn_zoomin_init_png_2024743705:Class;
       
-      private var _embed_mxml__styles_images_control_btn_zoomout_init_png_1519735303:Class;
+      private var _embed_mxml__styles_images_control_btn_zoomin_over_png_2041564305:Class;
       
       mx_internal var _bindings:Array;
       
@@ -72,10 +72,10 @@ package anifire.creator.components
       {
          var target:Object = null;
          var watcherSetupUtilClass:Object = null;
-         this._embed_mxml__styles_images_control_btn_zoomout_over_png_1686087097 = facePreview__embed_mxml__styles_images_control_btn_zoomout_over_png_1686087097;
-         this._embed_mxml__styles_images_control_btn_zoomin_over_png_557062261 = facePreview__embed_mxml__styles_images_control_btn_zoomin_over_png_557062261;
-         this._embed_mxml__styles_images_control_btn_zoomin_init_png_640989693 = facePreview__embed_mxml__styles_images_control_btn_zoomin_init_png_640989693;
-         this._embed_mxml__styles_images_control_btn_zoomout_init_png_1519735303 = facePreview__embed_mxml__styles_images_control_btn_zoomout_init_png_1519735303;
+         this._embed_mxml__styles_images_control_btn_zoomout_init_png_1867130159 = facePreview__embed_mxml__styles_images_control_btn_zoomout_init_png_1867130159;
+         this._embed_mxml__styles_images_control_btn_zoomout_over_png_1369559785 = facePreview__embed_mxml__styles_images_control_btn_zoomout_over_png_1369559785;
+         this._embed_mxml__styles_images_control_btn_zoomin_init_png_2024743705 = facePreview__embed_mxml__styles_images_control_btn_zoomin_init_png_2024743705;
+         this._embed_mxml__styles_images_control_btn_zoomin_over_png_2041564305 = facePreview__embed_mxml__styles_images_control_btn_zoomin_over_png_2041564305;
          this._bindings = [];
          this._watchers = [];
          this._bindingsByDestination = {};
@@ -299,8 +299,8 @@ package anifire.creator.components
          _loc1_.enabled = true;
          _loc1_.bottom = 0;
          _loc1_.right = 15;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_control_btn_zoomin_init_png_640989693);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_control_btn_zoomin_over_png_557062261);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_control_btn_zoomin_init_png_2024743705);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_control_btn_zoomin_over_png_2041564305);
          _loc1_.addEventListener("click",this.__btnZoomIn_click);
          _loc1_.id = "btnZoomIn";
          if(!_loc1_.document)
@@ -324,8 +324,8 @@ package anifire.creator.components
          _loc1_.enabled = true;
          _loc1_.bottom = 0;
          _loc1_.right = 15;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_control_btn_zoomout_init_png_1519735303);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_control_btn_zoomout_over_png_1686087097);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_control_btn_zoomout_init_png_1867130159);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_control_btn_zoomout_over_png_1369559785);
          _loc1_.addEventListener("click",this.__btnZoomOut_click);
          _loc1_.id = "btnZoomOut";
          if(!_loc1_.document)

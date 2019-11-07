@@ -14,13 +14,13 @@ package anifire.skins
       
       private var __moduleFactoryInitialized:Boolean = false;
       
-      private var _embed_mxml__styles_images_colorpalette_slider_control_png_381158866:Class;
+      private var _embed_mxml__styles_images_colorpalette_slider_control_png_690206472:Class;
       
       private var _213507019hostComponent:Button;
       
       public function ColorInputPanelHueSliderThumbSkin()
       {
-         this._embed_mxml__styles_images_colorpalette_slider_control_png_381158866 = ColorInputPanelHueSliderThumbSkin__embed_mxml__styles_images_colorpalette_slider_control_png_381158866;
+         this._embed_mxml__styles_images_colorpalette_slider_control_png_690206472 = ColorInputPanelHueSliderThumbSkin__embed_mxml__styles_images_colorpalette_slider_control_png_690206472;
          super();
          mx_internal::_document = this;
          this.mxmlContent = [this._ColorInputPanelHueSliderThumbSkin_BitmapImage1_c()];
@@ -58,7 +58,7 @@ package anifire.skins
       private function _ColorInputPanelHueSliderThumbSkin_BitmapImage1_c() : BitmapImage
       {
          var _loc1_:BitmapImage = new BitmapImage();
-         _loc1_.source = this._embed_mxml__styles_images_colorpalette_slider_control_png_381158866;
+         _loc1_.source = this._embed_mxml__styles_images_colorpalette_slider_control_png_690206472;
          _loc1_.initialized(this,null);
          return _loc1_;
       }

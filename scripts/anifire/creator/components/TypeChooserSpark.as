@@ -67,51 +67,51 @@ package anifire.creator.components
       
       private var _propChanged:Object;
       
-      private var _embed_mxml__styles_images_assets_ico_nose_png_1570986425:Class;
+      private var _embed_mxml__styles_images_assets_ico_hair_png_568588401:Class;
       
-      private var _embed_mxml__styles_images_assets_ico_hair_png_1438873273:Class;
+      private var _embed_mxml__styles_images_assets_ico_face_dec_png_993584527:Class;
       
-      private var _embed_mxml__styles_images_assets_ico_eyebrow_png_1926538443:Class;
+      private var _embed_mxml__styles_images_assets_ico_shoe_png_1056716433:Class;
       
-      private var _embed_mxml__styles_images_typebar_step_arrowr_over_png_2076159481:Class;
+      private var _embed_mxml__styles_images_assets_ico_glasses_png_778597383:Class;
       
-      private var _embed_mxml__styles_images_assets_ico_upper_body_png_758638535:Class;
+      private var _embed_mxml__styles_images_assets_ico_mouth_png_1871714575:Class;
       
-      private var _embed_mxml__styles_images_typebar_step_arrowr_disabled_png_1838034361:Class;
+      private var _embed_mxml__styles_images_typebar_step_arrowl_init_png_777661207:Class;
       
-      private var _embed_mxml__styles_images_assets_ico_mouth_png_40052473:Class;
+      private var _embed_mxml__styles_images_typebar_step_arrowr_over_png_1377950441:Class;
       
-      private var _embed_mxml__styles_images_assets_ico_lower_body_png_1025779659:Class;
+      private var _embed_mxml__styles_images_typebar_step_arrowr_init_png_1379232273:Class;
       
-      private var _embed_mxml__styles_images_assets_ico_beard_png_58796709:Class;
+      private var _embed_mxml__styles_images_assets_ico_mustache_png_85452817:Class;
       
-      private var _embed_mxml__styles_images_assets_icon_upperbody_png_757352387:Class;
+      private var _embed_mxml__styles_images_assets_ico_ear_png_285215279:Class;
       
-      private var _embed_mxml__styles_images_typebar_step_arrowl_disabled_png_1974837925:Class;
+      private var _embed_mxml__styles_images_typebar_step_arrowr_disabled_png_1206832903:Class;
       
-      private var _embed_mxml__styles_images_assets_ico_face_png_1598125757:Class;
+      private var _embed_mxml__styles_images_assets_ico_nose_png_972289873:Class;
       
-      private var _embed_mxml__styles_images_assets_ico_back_prop_png_415704249:Class;
+      private var _embed_mxml__styles_images_assets_icon_upperbody_png_381444503:Class;
       
-      private var _embed_mxml__styles_images_assets_ico_face_dec_png_330808245:Class;
+      private var _embed_mxml__styles_images_assets_ico_upper_body_png_246182023:Class;
       
-      private var _embed_mxml__styles_images_typebar_step_arrowr_init_png_1537879481:Class;
+      private var _embed_mxml__styles_images_assets_ico_lower_body_png_246706063:Class;
       
-      private var _embed_mxml__styles_images_assets_ico_hand_png_1682020985:Class;
+      private var _embed_mxml__styles_images_typebar_step_arrowl_disabled_png_1347800335:Class;
       
-      private var _embed_mxml__styles_images_typebar_step_arrowl_over_png_2072948597:Class;
+      private var _embed_mxml__styles_images_typebar_step_arrowl_over_png_560871183:Class;
       
-      private var _embed_mxml__styles_images_assets_ico_glasses_png_1966638279:Class;
+      private var _embed_mxml__styles_images_assets_ico_hand_png_14365849:Class;
       
-      private var _embed_mxml__styles_images_assets_ico_eye_png_1265449509:Class;
+      private var _embed_mxml__styles_images_assets_ico_face_png_970077817:Class;
       
-      private var _embed_mxml__styles_images_typebar_step_arrowl_init_png_1539024125:Class;
+      private var _embed_mxml__styles_images_assets_ico_beard_png_1737554191:Class;
       
-      private var _embed_mxml__styles_images_assets_ico_shoe_png_970889849:Class;
+      private var _embed_mxml__styles_images_assets_ico_back_prop_png_539571047:Class;
       
-      private var _embed_mxml__styles_images_assets_ico_mustache_png_57358789:Class;
+      private var _embed_mxml__styles_images_assets_ico_eyebrow_png_289958927:Class;
       
-      private var _embed_mxml__styles_images_assets_ico_ear_png_1274492665:Class;
+      private var _embed_mxml__styles_images_assets_ico_eye_png_2124397041:Class;
       
       mx_internal var _bindings:Array;
       
@@ -127,29 +127,29 @@ package anifire.creator.components
          var watcherSetupUtilClass:Object = null;
          this.components = new Array();
          this._propChanged = {};
-         this._embed_mxml__styles_images_assets_ico_nose_png_1570986425 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_nose_png_1570986425;
-         this._embed_mxml__styles_images_assets_ico_hair_png_1438873273 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_hair_png_1438873273;
-         this._embed_mxml__styles_images_assets_ico_eyebrow_png_1926538443 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_eyebrow_png_1926538443;
-         this._embed_mxml__styles_images_typebar_step_arrowr_over_png_2076159481 = TypeChooserSpark__embed_mxml__styles_images_typebar_step_arrowr_over_png_2076159481;
-         this._embed_mxml__styles_images_assets_ico_upper_body_png_758638535 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_upper_body_png_758638535;
-         this._embed_mxml__styles_images_typebar_step_arrowr_disabled_png_1838034361 = TypeChooserSpark__embed_mxml__styles_images_typebar_step_arrowr_disabled_png_1838034361;
-         this._embed_mxml__styles_images_assets_ico_mouth_png_40052473 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_mouth_png_40052473;
-         this._embed_mxml__styles_images_assets_ico_lower_body_png_1025779659 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_lower_body_png_1025779659;
-         this._embed_mxml__styles_images_assets_ico_beard_png_58796709 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_beard_png_58796709;
-         this._embed_mxml__styles_images_assets_icon_upperbody_png_757352387 = TypeChooserSpark__embed_mxml__styles_images_assets_icon_upperbody_png_757352387;
-         this._embed_mxml__styles_images_typebar_step_arrowl_disabled_png_1974837925 = TypeChooserSpark__embed_mxml__styles_images_typebar_step_arrowl_disabled_png_1974837925;
-         this._embed_mxml__styles_images_assets_ico_face_png_1598125757 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_face_png_1598125757;
-         this._embed_mxml__styles_images_assets_ico_back_prop_png_415704249 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_back_prop_png_415704249;
-         this._embed_mxml__styles_images_assets_ico_face_dec_png_330808245 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_face_dec_png_330808245;
-         this._embed_mxml__styles_images_typebar_step_arrowr_init_png_1537879481 = TypeChooserSpark__embed_mxml__styles_images_typebar_step_arrowr_init_png_1537879481;
-         this._embed_mxml__styles_images_assets_ico_hand_png_1682020985 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_hand_png_1682020985;
-         this._embed_mxml__styles_images_typebar_step_arrowl_over_png_2072948597 = TypeChooserSpark__embed_mxml__styles_images_typebar_step_arrowl_over_png_2072948597;
-         this._embed_mxml__styles_images_assets_ico_glasses_png_1966638279 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_glasses_png_1966638279;
-         this._embed_mxml__styles_images_assets_ico_eye_png_1265449509 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_eye_png_1265449509;
-         this._embed_mxml__styles_images_typebar_step_arrowl_init_png_1539024125 = TypeChooserSpark__embed_mxml__styles_images_typebar_step_arrowl_init_png_1539024125;
-         this._embed_mxml__styles_images_assets_ico_shoe_png_970889849 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_shoe_png_970889849;
-         this._embed_mxml__styles_images_assets_ico_mustache_png_57358789 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_mustache_png_57358789;
-         this._embed_mxml__styles_images_assets_ico_ear_png_1274492665 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_ear_png_1274492665;
+         this._embed_mxml__styles_images_assets_ico_hair_png_568588401 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_hair_png_568588401;
+         this._embed_mxml__styles_images_assets_ico_face_dec_png_993584527 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_face_dec_png_993584527;
+         this._embed_mxml__styles_images_assets_ico_shoe_png_1056716433 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_shoe_png_1056716433;
+         this._embed_mxml__styles_images_assets_ico_glasses_png_778597383 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_glasses_png_778597383;
+         this._embed_mxml__styles_images_assets_ico_mouth_png_1871714575 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_mouth_png_1871714575;
+         this._embed_mxml__styles_images_typebar_step_arrowl_init_png_777661207 = TypeChooserSpark__embed_mxml__styles_images_typebar_step_arrowl_init_png_777661207;
+         this._embed_mxml__styles_images_typebar_step_arrowr_over_png_1377950441 = TypeChooserSpark__embed_mxml__styles_images_typebar_step_arrowr_over_png_1377950441;
+         this._embed_mxml__styles_images_typebar_step_arrowr_init_png_1379232273 = TypeChooserSpark__embed_mxml__styles_images_typebar_step_arrowr_init_png_1379232273;
+         this._embed_mxml__styles_images_assets_ico_mustache_png_85452817 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_mustache_png_85452817;
+         this._embed_mxml__styles_images_assets_ico_ear_png_285215279 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_ear_png_285215279;
+         this._embed_mxml__styles_images_typebar_step_arrowr_disabled_png_1206832903 = TypeChooserSpark__embed_mxml__styles_images_typebar_step_arrowr_disabled_png_1206832903;
+         this._embed_mxml__styles_images_assets_ico_nose_png_972289873 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_nose_png_972289873;
+         this._embed_mxml__styles_images_assets_icon_upperbody_png_381444503 = TypeChooserSpark__embed_mxml__styles_images_assets_icon_upperbody_png_381444503;
+         this._embed_mxml__styles_images_assets_ico_upper_body_png_246182023 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_upper_body_png_246182023;
+         this._embed_mxml__styles_images_assets_ico_lower_body_png_246706063 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_lower_body_png_246706063;
+         this._embed_mxml__styles_images_typebar_step_arrowl_disabled_png_1347800335 = TypeChooserSpark__embed_mxml__styles_images_typebar_step_arrowl_disabled_png_1347800335;
+         this._embed_mxml__styles_images_typebar_step_arrowl_over_png_560871183 = TypeChooserSpark__embed_mxml__styles_images_typebar_step_arrowl_over_png_560871183;
+         this._embed_mxml__styles_images_assets_ico_hand_png_14365849 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_hand_png_14365849;
+         this._embed_mxml__styles_images_assets_ico_face_png_970077817 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_face_png_970077817;
+         this._embed_mxml__styles_images_assets_ico_beard_png_1737554191 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_beard_png_1737554191;
+         this._embed_mxml__styles_images_assets_ico_back_prop_png_539571047 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_back_prop_png_539571047;
+         this._embed_mxml__styles_images_assets_ico_eyebrow_png_289958927 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_eyebrow_png_289958927;
+         this._embed_mxml__styles_images_assets_ico_eye_png_2124397041 = TypeChooserSpark__embed_mxml__styles_images_assets_ico_eye_png_2124397041;
          this._bindings = [];
          this._watchers = [];
          this._bindingsByDestination = {};
@@ -387,64 +387,64 @@ package anifire.creator.components
          var _loc1_:ArrayList = new ArrayList();
          _loc1_.source = [{
             "label":"componentGroupClothes",
-            "icon":this._embed_mxml__styles_images_assets_icon_upperbody_png_757352387
+            "icon":this._embed_mxml__styles_images_assets_icon_upperbody_png_381444503
          },{
             "label":"GoUpper",
-            "icon":this._embed_mxml__styles_images_assets_ico_upper_body_png_758638535
+            "icon":this._embed_mxml__styles_images_assets_ico_upper_body_png_246182023
          },{
             "label":"GoLower",
-            "icon":this._embed_mxml__styles_images_assets_ico_lower_body_png_1025779659
+            "icon":this._embed_mxml__styles_images_assets_ico_lower_body_png_246706063
          },{
             "label":"GoHands",
-            "icon":this._embed_mxml__styles_images_assets_ico_hand_png_1682020985
+            "icon":this._embed_mxml__styles_images_assets_ico_hand_png_14365849
          },{
             "label":"GoFeet",
-            "icon":this._embed_mxml__styles_images_assets_ico_shoe_png_970889849
+            "icon":this._embed_mxml__styles_images_assets_ico_shoe_png_1056716433
          },{
             "label":"GoBehindBody",
-            "icon":this._embed_mxml__styles_images_assets_ico_back_prop_png_415704249
+            "icon":this._embed_mxml__styles_images_assets_ico_back_prop_png_539571047
          },{
             "label":"GoHair",
-            "icon":this._embed_mxml__styles_images_assets_ico_hair_png_1438873273
+            "icon":this._embed_mxml__styles_images_assets_ico_hair_png_568588401
          },{
             "label":"upper_body",
-            "icon":this._embed_mxml__styles_images_assets_ico_upper_body_png_758638535
+            "icon":this._embed_mxml__styles_images_assets_ico_upper_body_png_246182023
          },{
             "label":"lower_body",
-            "icon":this._embed_mxml__styles_images_assets_ico_lower_body_png_1025779659
+            "icon":this._embed_mxml__styles_images_assets_ico_lower_body_png_246706063
          },{
             "label":"faceshape",
-            "icon":this._embed_mxml__styles_images_assets_ico_face_png_1598125757
+            "icon":this._embed_mxml__styles_images_assets_ico_face_png_970077817
          },{
             "label":"hair",
-            "icon":this._embed_mxml__styles_images_assets_ico_hair_png_1438873273
+            "icon":this._embed_mxml__styles_images_assets_ico_hair_png_568588401
          },{
             "label":"beard",
-            "icon":this._embed_mxml__styles_images_assets_ico_beard_png_58796709
+            "icon":this._embed_mxml__styles_images_assets_ico_beard_png_1737554191
          },{
             "label":"mouth",
-            "icon":this._embed_mxml__styles_images_assets_ico_mouth_png_40052473
+            "icon":this._embed_mxml__styles_images_assets_ico_mouth_png_1871714575
          },{
             "label":"ear",
-            "icon":this._embed_mxml__styles_images_assets_ico_ear_png_1274492665
+            "icon":this._embed_mxml__styles_images_assets_ico_ear_png_285215279
          },{
             "label":"mustache",
-            "icon":this._embed_mxml__styles_images_assets_ico_mustache_png_57358789
+            "icon":this._embed_mxml__styles_images_assets_ico_mustache_png_85452817
          },{
             "label":"eye",
-            "icon":this._embed_mxml__styles_images_assets_ico_eye_png_1265449509
+            "icon":this._embed_mxml__styles_images_assets_ico_eye_png_2124397041
          },{
             "label":"eyebrow",
-            "icon":this._embed_mxml__styles_images_assets_ico_eyebrow_png_1926538443
+            "icon":this._embed_mxml__styles_images_assets_ico_eyebrow_png_289958927
          },{
             "label":"nose",
-            "icon":this._embed_mxml__styles_images_assets_ico_nose_png_1570986425
+            "icon":this._embed_mxml__styles_images_assets_ico_nose_png_972289873
          },{
             "label":"glasses",
-            "icon":this._embed_mxml__styles_images_assets_ico_glasses_png_1966638279
+            "icon":this._embed_mxml__styles_images_assets_ico_glasses_png_778597383
          },{
             "label":"facedecoration",
-            "icon":this._embed_mxml__styles_images_assets_ico_face_dec_png_330808245
+            "icon":this._embed_mxml__styles_images_assets_ico_face_dec_png_993584527
          }];
          this.typeList = _loc1_;
          BindingManager.executeBindings(this,"typeList",this.typeList);
@@ -456,9 +456,9 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = false;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_typebar_step_arrowl_init_png_1539024125);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_typebar_step_arrowl_over_png_2072948597);
-         _loc1_.setStyle("iconDisabled",this._embed_mxml__styles_images_typebar_step_arrowl_disabled_png_1974837925);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_typebar_step_arrowl_init_png_777661207);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_typebar_step_arrowl_over_png_560871183);
+         _loc1_.setStyle("iconDisabled",this._embed_mxml__styles_images_typebar_step_arrowl_disabled_png_1347800335);
          _loc1_.addEventListener("click",this.__btnPrevious_click);
          _loc1_.id = "btnPrevious";
          if(!_loc1_.document)
@@ -536,9 +536,9 @@ package anifire.creator.components
          var _loc1_:IconButton = new IconButton();
          _loc1_.buttonMode = true;
          _loc1_.enabled = false;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_typebar_step_arrowr_init_png_1537879481);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_typebar_step_arrowr_over_png_2076159481);
-         _loc1_.setStyle("iconDisabled",this._embed_mxml__styles_images_typebar_step_arrowr_disabled_png_1838034361);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_typebar_step_arrowr_init_png_1379232273);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_typebar_step_arrowr_over_png_1377950441);
+         _loc1_.setStyle("iconDisabled",this._embed_mxml__styles_images_typebar_step_arrowr_disabled_png_1206832903);
          _loc1_.addEventListener("click",this.__btnNext_click);
          _loc1_.id = "btnNext";
          if(!_loc1_.document)

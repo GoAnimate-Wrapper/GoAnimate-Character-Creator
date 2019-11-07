@@ -80,17 +80,17 @@ package anifire.creator.components
       
       private var scrollDy:Number = 0;
       
-      private var _embed_mxml__styles_images_thumbBox_scrollup_init_png_878607239:Class;
+      private var _embed_mxml__styles_images_thumbBox_scrollup_disabled_png_1872844815:Class;
       
-      private var _embed_mxml__styles_images_thumbBox_scrolldown_init_png_1145426563:Class;
+      private var _embed_mxml__styles_images_thumbBox_scrollup_init_png_50270743:Class;
       
-      private var _embed_mxml__styles_images_thumbBox_scrollup_disabled_png_1375363271:Class;
+      private var _embed_mxml__styles_images_thumbBox_scrollup_over_png_47021583:Class;
       
-      private var _embed_mxml__styles_images_thumbBox_scrollup_over_png_843131911:Class;
+      private var _embed_mxml__styles_images_thumbBox_scrolldown_over_png_1580853969:Class;
       
-      private var _embed_mxml__styles_images_thumbBox_scrolldown_disabled_png_1737469557:Class;
+      private var _embed_mxml__styles_images_thumbBox_scrolldown_init_png_1641784615:Class;
       
-      private var _embed_mxml__styles_images_thumbBox_scrolldown_over_png_1537650053:Class;
+      private var _embed_mxml__styles_images_thumbBox_scrolldown_disabled_png_1546586895:Class;
       
       mx_internal var _bindings:Array;
       
@@ -104,12 +104,12 @@ package anifire.creator.components
       {
          var target:Object = null;
          var watcherSetupUtilClass:Object = null;
-         this._embed_mxml__styles_images_thumbBox_scrollup_init_png_878607239 = ComponentThumbChooserSpark__embed_mxml__styles_images_thumbBox_scrollup_init_png_878607239;
-         this._embed_mxml__styles_images_thumbBox_scrolldown_init_png_1145426563 = ComponentThumbChooserSpark__embed_mxml__styles_images_thumbBox_scrolldown_init_png_1145426563;
-         this._embed_mxml__styles_images_thumbBox_scrollup_disabled_png_1375363271 = ComponentThumbChooserSpark__embed_mxml__styles_images_thumbBox_scrollup_disabled_png_1375363271;
-         this._embed_mxml__styles_images_thumbBox_scrollup_over_png_843131911 = ComponentThumbChooserSpark__embed_mxml__styles_images_thumbBox_scrollup_over_png_843131911;
-         this._embed_mxml__styles_images_thumbBox_scrolldown_disabled_png_1737469557 = ComponentThumbChooserSpark__embed_mxml__styles_images_thumbBox_scrolldown_disabled_png_1737469557;
-         this._embed_mxml__styles_images_thumbBox_scrolldown_over_png_1537650053 = ComponentThumbChooserSpark__embed_mxml__styles_images_thumbBox_scrolldown_over_png_1537650053;
+         this._embed_mxml__styles_images_thumbBox_scrollup_disabled_png_1872844815 = ComponentThumbChooserSpark__embed_mxml__styles_images_thumbBox_scrollup_disabled_png_1872844815;
+         this._embed_mxml__styles_images_thumbBox_scrollup_init_png_50270743 = ComponentThumbChooserSpark__embed_mxml__styles_images_thumbBox_scrollup_init_png_50270743;
+         this._embed_mxml__styles_images_thumbBox_scrollup_over_png_47021583 = ComponentThumbChooserSpark__embed_mxml__styles_images_thumbBox_scrollup_over_png_47021583;
+         this._embed_mxml__styles_images_thumbBox_scrolldown_over_png_1580853969 = ComponentThumbChooserSpark__embed_mxml__styles_images_thumbBox_scrolldown_over_png_1580853969;
+         this._embed_mxml__styles_images_thumbBox_scrolldown_init_png_1641784615 = ComponentThumbChooserSpark__embed_mxml__styles_images_thumbBox_scrolldown_init_png_1641784615;
+         this._embed_mxml__styles_images_thumbBox_scrolldown_disabled_png_1546586895 = ComponentThumbChooserSpark__embed_mxml__styles_images_thumbBox_scrolldown_disabled_png_1546586895;
          this._bindings = [];
          this._watchers = [];
          this._bindingsByDestination = {};
@@ -548,9 +548,9 @@ package anifire.creator.components
          _loc1_.enabled = true;
          _loc1_.verticalCenter = 0;
          _loc1_.horizontalCenter = 0;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_thumbBox_scrollup_init_png_878607239);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_thumbBox_scrollup_over_png_843131911);
-         _loc1_.setStyle("iconDisabled",this._embed_mxml__styles_images_thumbBox_scrollup_disabled_png_1375363271);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_thumbBox_scrollup_init_png_50270743);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_thumbBox_scrollup_over_png_47021583);
+         _loc1_.setStyle("iconDisabled",this._embed_mxml__styles_images_thumbBox_scrollup_disabled_png_1872844815);
          _loc1_.addEventListener("mouseDown",this.__upButt_mouseDown);
          _loc1_.addEventListener("mouseOut",this.__upButt_mouseOut);
          _loc1_.addEventListener("mouseUp",this.__upButt_mouseUp);
@@ -621,9 +621,9 @@ package anifire.creator.components
          _loc1_.enabled = true;
          _loc1_.verticalCenter = 0;
          _loc1_.horizontalCenter = 0;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_thumbBox_scrolldown_init_png_1145426563);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_thumbBox_scrolldown_over_png_1537650053);
-         _loc1_.setStyle("iconDisabled",this._embed_mxml__styles_images_thumbBox_scrolldown_disabled_png_1737469557);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_thumbBox_scrolldown_init_png_1641784615);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_thumbBox_scrolldown_over_png_1580853969);
+         _loc1_.setStyle("iconDisabled",this._embed_mxml__styles_images_thumbBox_scrolldown_disabled_png_1546586895);
          _loc1_.addEventListener("mouseDown",this.__downButt_mouseDown);
          _loc1_.addEventListener("mouseOut",this.__downButt_mouseOut);
          _loc1_.addEventListener("mouseUp",this.__downButt_mouseUp);

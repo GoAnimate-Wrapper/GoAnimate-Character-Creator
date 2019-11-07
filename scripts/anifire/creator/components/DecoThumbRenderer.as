@@ -57,16 +57,16 @@ package anifire.creator.components
       
       protected var _displayMatrix:Matrix;
       
-      private var _embed_mxml__styles_images_thumbBox_btn_remove_over_png_998649205:Class;
+      private var _embed_mxml__styles_images_thumbBox_btn_remove_init_png_1733973271:Class;
       
-      private var _embed_mxml__styles_images_thumbBox_btn_remove_init_png_1572482301:Class;
+      private var _embed_mxml__styles_images_thumbBox_btn_remove_over_png_1717937423:Class;
       
       public function DecoThumbRenderer()
       {
          this._loader = new Loader();
          this._displayMatrix = new Matrix();
-         this._embed_mxml__styles_images_thumbBox_btn_remove_over_png_998649205 = DecoThumbRenderer__embed_mxml__styles_images_thumbBox_btn_remove_over_png_998649205;
-         this._embed_mxml__styles_images_thumbBox_btn_remove_init_png_1572482301 = DecoThumbRenderer__embed_mxml__styles_images_thumbBox_btn_remove_init_png_1572482301;
+         this._embed_mxml__styles_images_thumbBox_btn_remove_init_png_1733973271 = DecoThumbRenderer__embed_mxml__styles_images_thumbBox_btn_remove_init_png_1733973271;
+         this._embed_mxml__styles_images_thumbBox_btn_remove_over_png_1717937423 = DecoThumbRenderer__embed_mxml__styles_images_thumbBox_btn_remove_over_png_1717937423;
          super();
          mx_internal::_document = this;
          this.autoDrawBackground = false;
@@ -217,7 +217,7 @@ package anifire.creator.components
       private function _DecoThumbRenderer_Image1_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_thumbBox_btn_remove_init_png_1572482301;
+         _loc1_.source = this._embed_mxml__styles_images_thumbBox_btn_remove_init_png_1733973271;
          _loc1_.visible = true;
          _loc1_.id = "_DecoThumbRenderer_Image1";
          if(!_loc1_.document)
@@ -232,7 +232,7 @@ package anifire.creator.components
       private function _DecoThumbRenderer_Image2_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_thumbBox_btn_remove_over_png_998649205;
+         _loc1_.source = this._embed_mxml__styles_images_thumbBox_btn_remove_over_png_1717937423;
          _loc1_.visible = false;
          _loc1_.id = "_DecoThumbRenderer_Image2";
          if(!_loc1_.document)

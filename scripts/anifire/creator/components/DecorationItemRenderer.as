@@ -60,9 +60,9 @@ package anifire.creator.components
       
       protected var _displayMatrix:Matrix;
       
-      private var _embed_mxml__styles_images_control_btn_delete_over_png_1240721219:Class;
+      private var _embed_mxml__styles_images_control_btn_delete_init_png_164639887:Class;
       
-      private var _embed_mxml__styles_images_control_btn_delete_init_png_1753458267:Class;
+      private var _embed_mxml__styles_images_control_btn_delete_over_png_399623047:Class;
       
       mx_internal var _bindings:Array;
       
@@ -78,8 +78,8 @@ package anifire.creator.components
          var watcherSetupUtilClass:Object = null;
          this._loader = new Loader();
          this._displayMatrix = new Matrix();
-         this._embed_mxml__styles_images_control_btn_delete_over_png_1240721219 = DecorationItemRenderer__embed_mxml__styles_images_control_btn_delete_over_png_1240721219;
-         this._embed_mxml__styles_images_control_btn_delete_init_png_1753458267 = DecorationItemRenderer__embed_mxml__styles_images_control_btn_delete_init_png_1753458267;
+         this._embed_mxml__styles_images_control_btn_delete_init_png_164639887 = DecorationItemRenderer__embed_mxml__styles_images_control_btn_delete_init_png_164639887;
+         this._embed_mxml__styles_images_control_btn_delete_over_png_399623047 = DecorationItemRenderer__embed_mxml__styles_images_control_btn_delete_over_png_399623047;
          this._bindings = [];
          this._watchers = [];
          this._bindingsByDestination = {};
@@ -345,8 +345,8 @@ package anifire.creator.components
          _loc1_.enabled = true;
          _loc1_.bottom = 10;
          _loc1_.right = 10;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_control_btn_delete_init_png_1753458267);
-         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_control_btn_delete_over_png_1240721219);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_control_btn_delete_init_png_164639887);
+         _loc1_.setStyle("iconOver",this._embed_mxml__styles_images_control_btn_delete_over_png_399623047);
          _loc1_.addEventListener("click",this.__btnDelete_click);
          _loc1_.id = "btnDelete";
          if(!_loc1_.document)
