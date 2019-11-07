@@ -31,7 +31,7 @@ package anifire.skins
       
       private var __moduleFactoryInitialized:Boolean = false;
       
-      private var _embed_mxml__styles_images_colorpalette_hue_slider_bg_png_2086678210:Class;
+      private var _embed_mxml__styles_images_colorpalette_hue_slider_bg_png_1028489132:Class;
       
       mx_internal var _bindings:Array;
       
@@ -47,7 +47,7 @@ package anifire.skins
       {
          var target:Object = null;
          var watcherSetupUtilClass:Object = null;
-         this._embed_mxml__styles_images_colorpalette_hue_slider_bg_png_2086678210 = ColorInputPanelHueSliderTrackSkin__embed_mxml__styles_images_colorpalette_hue_slider_bg_png_2086678210;
+         this._embed_mxml__styles_images_colorpalette_hue_slider_bg_png_1028489132 = ColorInputPanelHueSliderTrackSkin__embed_mxml__styles_images_colorpalette_hue_slider_bg_png_1028489132;
          this._bindings = [];
          this._watchers = [];
          this._bindingsByDestination = {};
@@ -141,7 +141,7 @@ package anifire.skins
          _loc1_.bottom = 0;
          _loc1_.fillMode = "scale";
          _loc1_.scaleMode = "stretch";
-         _loc1_.source = this._embed_mxml__styles_images_colorpalette_hue_slider_bg_png_2086678210;
+         _loc1_.source = this._embed_mxml__styles_images_colorpalette_hue_slider_bg_png_1028489132;
          _loc1_.initialized(this,null);
          return _loc1_;
       }

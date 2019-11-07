@@ -5,6 +5,7 @@ package anifire.creator.core
    import anifire.constant.CcServerConstant;
    import anifire.constant.LicenseConstants;
    import anifire.constant.ServerConstants;
+   import anifire.constant.ThemeConstants;
    import anifire.creator.components.ConfirmPopUp;
    import anifire.creator.events.CcCoreEvent;
    import anifire.creator.events.CcPointUpdateEvent;
@@ -108,7 +109,12 @@ package anifire.creator.core
          var _loc4_:String = _configManager.getValue(ServerConstants.PARAM_THEME_ID);
          if(_loc4_ == null || _loc4_.length <= 0)
          {
-            _loc4_ = "family";
+            _loc4_ = ThemeConstants.BUSINESS_THEME_ID;
+         }
+         else if(ThemeConstants.isThemeRetired(_loc4_))
+         {
+            _loc4_ = "";
+            return;
          }
          setThemeId(_loc4_);
          this.originalAssetId = _configManager.getValue("original_asset_id") as String;

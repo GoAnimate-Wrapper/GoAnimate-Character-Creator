@@ -27,6 +27,8 @@ package anifire.util
       private static var _loggedIn:Number = -1;
       
       private static var _isTrialAccount:Number = -1;
+      
+      private static var _isContentAdmin:Number = -1;
        
       
       public function UtilUser()
@@ -153,6 +155,15 @@ package anifire.util
       public static function get isFreeTrial() : Boolean
       {
          return AppConfigManager.instance.getValue(ServerConstants.FLASHVAR_IS_FREE_TRIAL) == "1";
+      }
+      
+      public static function get isContentAdmin() : Boolean
+      {
+         if(_isContentAdmin == -1)
+         {
+            _isContentAdmin = AppConfigManager.instance.getValue(ServerConstants.FLASHVAR_IS_CONTENT_ADMIN) == "1"?Number(1):Number(0);
+         }
+         return _isContentAdmin == 1;
       }
    }
 }

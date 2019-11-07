@@ -66,7 +66,7 @@ package anifire.creator.skins
       
       private var __moduleFactoryInitialized:Boolean = false;
       
-      private var _embed_mxml__styles_images_panel_text_nocolor_png_1973715611:Class;
+      private var _embed_mxml__styles_images_panel_text_nocolor_png_2012769295:Class;
       
       mx_internal var _bindings:Array;
       
@@ -82,7 +82,7 @@ package anifire.creator.skins
       {
          var target:Object = null;
          var watcherSetupUtilClass:Object = null;
-         this._embed_mxml__styles_images_panel_text_nocolor_png_1973715611 = FlatColorPickerSkin__embed_mxml__styles_images_panel_text_nocolor_png_1973715611;
+         this._embed_mxml__styles_images_panel_text_nocolor_png_2012769295 = FlatColorPickerSkin__embed_mxml__styles_images_panel_text_nocolor_png_2012769295;
          this._bindings = [];
          this._watchers = [];
          this._bindingsByDestination = {};
@@ -309,7 +309,7 @@ package anifire.creator.skins
          _loc1_.buttonMode = true;
          _loc1_.bottom = 0;
          _loc1_.right = 0;
-         _loc1_.setStyle("icon",this._embed_mxml__styles_images_panel_text_nocolor_png_1973715611);
+         _loc1_.setStyle("icon",this._embed_mxml__styles_images_panel_text_nocolor_png_2012769295);
          _loc1_.id = "transparentColorButton";
          if(!_loc1_.document)
          {

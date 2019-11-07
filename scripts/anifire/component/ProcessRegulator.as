@@ -105,7 +105,7 @@ package anifire.component
          {
             _loc1_.process.removeEventListener(_loc1_.eventType,this.onProcessComplete);
          }
-         this._processes = new Vector.<ProcessRegulator>();
+         this._processes = new Vector.<ProcessData>();
          this._step = 0;
          this._oneByOne = false;
          this._interval = 0;

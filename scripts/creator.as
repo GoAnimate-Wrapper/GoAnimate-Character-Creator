@@ -142,11 +142,11 @@ package
       
       mx_internal var _creator_StylesInit_done:Boolean = false;
       
-      private var _embed__font_StudioSparkMain_medium_normal_1328217743:Class;
+      private var _embed__font_StudioSparkMain_medium_italic_2002013932:Class;
       
-      private var _embed__font_StudioSparkMain_medium_italic_932513666:Class;
+      private var _embed__font_StudioSparkMain_medium_normal_258717477:Class;
       
-      private var _embed__font_StudioSparkMain_bold_normal_252592600:Class;
+      private var _embed__font_StudioSparkMain_bold_normal_1322092866:Class;
       
       mx_internal var _bindings:Array;
       
@@ -160,9 +160,9 @@ package
       {
          var target:Object = null;
          var watcherSetupUtilClass:Object = null;
-         this._embed__font_StudioSparkMain_medium_normal_1328217743 = creator__embed__font_StudioSparkMain_medium_normal_1328217743;
-         this._embed__font_StudioSparkMain_medium_italic_932513666 = creator__embed__font_StudioSparkMain_medium_italic_932513666;
-         this._embed__font_StudioSparkMain_bold_normal_252592600 = creator__embed__font_StudioSparkMain_bold_normal_252592600;
+         this._embed__font_StudioSparkMain_medium_italic_2002013932 = creator__embed__font_StudioSparkMain_medium_italic_2002013932;
+         this._embed__font_StudioSparkMain_medium_normal_258717477 = creator__embed__font_StudioSparkMain_medium_normal_258717477;
+         this._embed__font_StudioSparkMain_bold_normal_1322092866 = creator__embed__font_StudioSparkMain_bold_normal_1322092866;
          this._bindings = [];
          this._watchers = [];
          this._bindingsByDestination = {};

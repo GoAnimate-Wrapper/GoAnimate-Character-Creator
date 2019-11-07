@@ -88,71 +88,71 @@ package anifire.creator.components
       
       private var char:CcCharacter;
       
-      private var _embed_mxml__styles_images_icons_color_mustache_png_390540537:Class;
+      private var _embed_mxml__styles_images_icons_color_beard_png_999389201:Class;
       
-      private var _embed_mxml__styles_images_icons_color_backprop_minor_png_907777337:Class;
+      private var _embed_mxml__styles_images_icons_color_len_png_1257928537:Class;
       
-      private var _embed_mxml__styles_images_icons_color_backprop_png_2093028773:Class;
+      private var _embed_mxml__styles_images_icons_color_upper_minor_png_240125103:Class;
       
-      private var _embed_mxml__styles_images_icons_color_hair_minor_png_912147399:Class;
+      private var _embed_mxml__styles_images_icons_color_feet_png_1517167849:Class;
       
-      private var _embed_mxml__styles_images_icons_color_acc_minor_png_757581579:Class;
+      private var _embed_mxml__styles_images_icons_color_hair_minor_png_24581743:Class;
       
-      private var _embed_mxml__styles_images_icons_color_eyelid_png_173967229:Class;
+      private var _embed_mxml__styles_images_icons_color_mouth_png_811197553:Class;
       
-      private var _embed_mxml__styles_images_icons_color_hand_png_169756807:Class;
+      private var _embed_mxml__styles_images_icons_color_backprop_minor_png_2009028623:Class;
       
-      private var _embed_mxml__styles_images_icons_color_lower_minor_png_1476618123:Class;
+      private var _embed_mxml__styles_images_icons_color_hand_png_1771084079:Class;
       
-      private var _embed_mxml__styles_images_icons_color_frame_png_631995193:Class;
+      private var _embed_mxml__styles_images_icons_color_eyeiris_png_634786169:Class;
       
-      private var _embed_mxml__styles_images_icons_color_acc_png_1482909305:Class;
+      private var _embed_mxml__styles_images_icons_color_acc_minor_png_158699631:Class;
       
-      private var _embed_mxml__styles_images_icons_color_upper_png_743381305:Class;
+      private var _embed_mxml__styles_images_icons_color_mustache_png_270990577:Class;
       
-      private var _embed_mxml__styles_images_icons_color_lower_png_1538557191:Class;
+      private var _embed_mxml__styles_images_icons_color_eyebrow_png_87494769:Class;
       
-      private var _embed_mxml__styles_images_icons_color_hair_png_40348533:Class;
+      private var _embed_mxml__styles_images_icons_color_lower_png_945842545:Class;
       
-      private var _embed_mxml__styles_images_icons_color_upper_minor_png_1376495179:Class;
+      private var _embed_mxml__styles_images_icons_color_acc_png_1056700017:Class;
       
-      private var _embed_mxml__styles_images_icons_color_mouth_png_763068277:Class;
+      private var _embed_mxml__styles_images_icons_color_hair_png_1349478129:Class;
       
-      private var _embed_mxml__styles_images_icons_color_feet_png_27306749:Class;
+      private var _embed_mxml__styles_images_icons_color_frame_png_945895785:Class;
       
-      private var _embed_mxml__styles_images_icons_color_beard_png_666467141:Class;
+      private var _embed_mxml__styles_images_icons_color_backprop_png_609943823:Class;
       
-      private var _embed_mxml__styles_images_icons_color_eyeiris_png_61421821:Class;
+      private var _embed_mxml__styles_images_icons_color_lower_minor_png_105952111:Class;
       
-      private var _embed_mxml__styles_images_icons_color_len_png_1033988025:Class;
+      private var _embed_mxml__styles_images_icons_color_face_png_1435625239:Class;
       
-      private var _embed_mxml__styles_images_icons_color_face_png_1310681731:Class;
+      private var _embed_mxml__styles_images_icons_color_upper_png_813515121:Class;
       
-      private var _embed_mxml__styles_images_icons_color_eyebrow_png_2108696135:Class;
+      private var _embed_mxml__styles_images_icons_color_eyelid_png_1509977049:Class;
       
       public function CcColorPickerElementSpark()
       {
-         this._embed_mxml__styles_images_icons_color_mustache_png_390540537 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_mustache_png_390540537;
-         this._embed_mxml__styles_images_icons_color_backprop_minor_png_907777337 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_backprop_minor_png_907777337;
-         this._embed_mxml__styles_images_icons_color_backprop_png_2093028773 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_backprop_png_2093028773;
-         this._embed_mxml__styles_images_icons_color_hair_minor_png_912147399 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_hair_minor_png_912147399;
-         this._embed_mxml__styles_images_icons_color_acc_minor_png_757581579 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_acc_minor_png_757581579;
-         this._embed_mxml__styles_images_icons_color_eyelid_png_173967229 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_eyelid_png_173967229;
-         this._embed_mxml__styles_images_icons_color_hand_png_169756807 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_hand_png_169756807;
-         this._embed_mxml__styles_images_icons_color_lower_minor_png_1476618123 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_lower_minor_png_1476618123;
-         this._embed_mxml__styles_images_icons_color_frame_png_631995193 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_frame_png_631995193;
-         this._embed_mxml__styles_images_icons_color_acc_png_1482909305 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_acc_png_1482909305;
-         this._embed_mxml__styles_images_icons_color_upper_png_743381305 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_upper_png_743381305;
-         this._embed_mxml__styles_images_icons_color_lower_png_1538557191 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_lower_png_1538557191;
-         this._embed_mxml__styles_images_icons_color_hair_png_40348533 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_hair_png_40348533;
-         this._embed_mxml__styles_images_icons_color_upper_minor_png_1376495179 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_upper_minor_png_1376495179;
-         this._embed_mxml__styles_images_icons_color_mouth_png_763068277 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_mouth_png_763068277;
-         this._embed_mxml__styles_images_icons_color_feet_png_27306749 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_feet_png_27306749;
-         this._embed_mxml__styles_images_icons_color_beard_png_666467141 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_beard_png_666467141;
-         this._embed_mxml__styles_images_icons_color_eyeiris_png_61421821 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_eyeiris_png_61421821;
-         this._embed_mxml__styles_images_icons_color_len_png_1033988025 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_len_png_1033988025;
-         this._embed_mxml__styles_images_icons_color_face_png_1310681731 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_face_png_1310681731;
-         this._embed_mxml__styles_images_icons_color_eyebrow_png_2108696135 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_eyebrow_png_2108696135;
+         this._embed_mxml__styles_images_icons_color_beard_png_999389201 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_beard_png_999389201;
+         this._embed_mxml__styles_images_icons_color_len_png_1257928537 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_len_png_1257928537;
+         this._embed_mxml__styles_images_icons_color_upper_minor_png_240125103 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_upper_minor_png_240125103;
+         this._embed_mxml__styles_images_icons_color_feet_png_1517167849 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_feet_png_1517167849;
+         this._embed_mxml__styles_images_icons_color_hair_minor_png_24581743 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_hair_minor_png_24581743;
+         this._embed_mxml__styles_images_icons_color_mouth_png_811197553 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_mouth_png_811197553;
+         this._embed_mxml__styles_images_icons_color_backprop_minor_png_2009028623 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_backprop_minor_png_2009028623;
+         this._embed_mxml__styles_images_icons_color_hand_png_1771084079 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_hand_png_1771084079;
+         this._embed_mxml__styles_images_icons_color_eyeiris_png_634786169 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_eyeiris_png_634786169;
+         this._embed_mxml__styles_images_icons_color_acc_minor_png_158699631 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_acc_minor_png_158699631;
+         this._embed_mxml__styles_images_icons_color_mustache_png_270990577 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_mustache_png_270990577;
+         this._embed_mxml__styles_images_icons_color_eyebrow_png_87494769 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_eyebrow_png_87494769;
+         this._embed_mxml__styles_images_icons_color_lower_png_945842545 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_lower_png_945842545;
+         this._embed_mxml__styles_images_icons_color_acc_png_1056700017 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_acc_png_1056700017;
+         this._embed_mxml__styles_images_icons_color_hair_png_1349478129 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_hair_png_1349478129;
+         this._embed_mxml__styles_images_icons_color_frame_png_945895785 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_frame_png_945895785;
+         this._embed_mxml__styles_images_icons_color_backprop_png_609943823 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_backprop_png_609943823;
+         this._embed_mxml__styles_images_icons_color_lower_minor_png_105952111 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_lower_minor_png_105952111;
+         this._embed_mxml__styles_images_icons_color_face_png_1435625239 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_face_png_1435625239;
+         this._embed_mxml__styles_images_icons_color_upper_png_813515121 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_upper_png_813515121;
+         this._embed_mxml__styles_images_icons_color_eyelid_png_1509977049 = CcColorPickerElementSpark__embed_mxml__styles_images_icons_color_eyelid_png_1509977049;
          super();
          mx_internal::_document = this;
          this.percentWidth = 100;
@@ -354,7 +354,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image1_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_face_png_1310681731;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_face_png_1435625239;
          _loc1_.visible = false;
          _loc1_.id = "sicoccSkinColor";
          if(!_loc1_.document)
@@ -369,7 +369,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image2_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_beard_png_666467141;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_beard_png_999389201;
          _loc1_.visible = false;
          _loc1_.id = "sicoccFaceHairColor";
          if(!_loc1_.document)
@@ -384,7 +384,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image3_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_eyelid_png_173967229;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_eyelid_png_1509977049;
          _loc1_.visible = false;
          _loc1_.id = "sicoccEyeLib";
          if(!_loc1_.document)
@@ -399,7 +399,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image4_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_eyeiris_png_61421821;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_eyeiris_png_634786169;
          _loc1_.visible = false;
          _loc1_.id = "sicoccEyeIris";
          if(!_loc1_.document)
@@ -414,7 +414,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image5_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_frame_png_631995193;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_frame_png_945895785;
          _loc1_.visible = false;
          _loc1_.id = "sicoccGlassesFrame";
          if(!_loc1_.document)
@@ -429,7 +429,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image6_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_len_png_1033988025;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_len_png_1257928537;
          _loc1_.visible = false;
          _loc1_.id = "sicoccGlassesLens";
          if(!_loc1_.document)
@@ -444,7 +444,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image7_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_mouth_png_763068277;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_mouth_png_811197553;
          _loc1_.visible = false;
          _loc1_.id = "sicoccMouthLip";
          if(!_loc1_.document)
@@ -459,7 +459,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image8_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_mustache_png_390540537;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_mustache_png_270990577;
          _loc1_.visible = false;
          _loc1_.id = "sicoccMustache";
          if(!_loc1_.document)
@@ -474,7 +474,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image9_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_beard_png_666467141;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_beard_png_999389201;
          _loc1_.visible = false;
          _loc1_.id = "sicoccBeard";
          if(!_loc1_.document)
@@ -489,7 +489,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image10_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_eyebrow_png_2108696135;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_eyebrow_png_87494769;
          _loc1_.visible = false;
          _loc1_.id = "sicoccEyebrow";
          if(!_loc1_.document)
@@ -504,7 +504,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image11_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_hair_png_40348533;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_hair_png_1349478129;
          _loc1_.visible = false;
          _loc1_.id = "sicoccHairMajor";
          if(!_loc1_.document)
@@ -519,7 +519,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image12_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_hair_minor_png_912147399;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_hair_minor_png_24581743;
          _loc1_.visible = false;
          _loc1_.id = "sicoccHairMinor";
          if(!_loc1_.document)
@@ -534,7 +534,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image13_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_upper_png_743381305;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_upper_png_813515121;
          _loc1_.visible = false;
          _loc1_.id = "sicoccUpperMain";
          if(!_loc1_.document)
@@ -549,7 +549,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image14_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_upper_minor_png_1376495179;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_upper_minor_png_240125103;
          _loc1_.visible = false;
          _loc1_.id = "sicoccUpperMinor";
          if(!_loc1_.document)
@@ -564,7 +564,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image15_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_lower_png_1538557191;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_lower_png_945842545;
          _loc1_.visible = false;
          _loc1_.id = "sicoccLowerMain";
          if(!_loc1_.document)
@@ -579,7 +579,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image16_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_lower_png_1538557191;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_lower_png_945842545;
          _loc1_.visible = false;
          _loc1_.id = "sicoccLowerMainA";
          if(!_loc1_.document)
@@ -594,7 +594,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image17_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_lower_minor_png_1476618123;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_lower_minor_png_105952111;
          _loc1_.visible = false;
          _loc1_.id = "sicoccLowerMinor";
          if(!_loc1_.document)
@@ -609,7 +609,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image18_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_backprop_png_2093028773;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_backprop_png_609943823;
          _loc1_.visible = false;
          _loc1_.id = "sicoccBackMajor";
          if(!_loc1_.document)
@@ -624,7 +624,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image19_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_backprop_minor_png_907777337;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_backprop_minor_png_2009028623;
          _loc1_.visible = false;
          _loc1_.id = "sicoccBackMinor";
          if(!_loc1_.document)
@@ -639,7 +639,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image20_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_acc_png_1482909305;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_acc_png_1056700017;
          _loc1_.visible = false;
          _loc1_.id = "sicoccDecMajor";
          if(!_loc1_.document)
@@ -654,7 +654,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image21_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_acc_minor_png_757581579;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_acc_minor_png_158699631;
          _loc1_.visible = false;
          _loc1_.id = "sicoccDecMinor";
          if(!_loc1_.document)
@@ -669,7 +669,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image22_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_feet_png_27306749;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_feet_png_1517167849;
          _loc1_.visible = false;
          _loc1_.id = "sicoccFeetMain";
          if(!_loc1_.document)
@@ -684,7 +684,7 @@ package anifire.creator.components
       private function _CcColorPickerElementSpark_Image23_i() : Image
       {
          var _loc1_:Image = new Image();
-         _loc1_.source = this._embed_mxml__styles_images_icons_color_hand_png_169756807;
+         _loc1_.source = this._embed_mxml__styles_images_icons_color_hand_png_1771084079;
          _loc1_.visible = false;
          _loc1_.id = "sicoccHandMain";
          if(!_loc1_.document)
